@@ -1,0 +1,14 @@
+D:\GitHub\Projetos UNIFG\PLP\ATIVIDADE AVALIATIVA PARTE 1\AtvAvaliaParte1\bin\Debug\AtvAvaliaParte1.exe.config
+D:\GitHub\Projetos UNIFG\PLP\ATIVIDADE AVALIATIVA PARTE 1\AtvAvaliaParte1\bin\Debug\AtvAvaliaParte1.exe
+D:\GitHub\Projetos UNIFG\PLP\ATIVIDADE AVALIATIVA PARTE 1\AtvAvaliaParte1\bin\Debug\AtvAvaliaParte1.pdb
+D:\GitHub\Projetos UNIFG\PLP\ATIVIDADE AVALIATIVA PARTE 1\AtvAvaliaParte1\obj\Debug\AtvAvaliaParte1.csprojAssemblyReference.cache
+D:\GitHub\Projetos UNIFG\PLP\ATIVIDADE AVALIATIVA PARTE 1\AtvAvaliaParte1\obj\Debug\AtvAvaliaParte1.csproj.CoreCompileInputs.cache
+D:\GitHub\Projetos UNIFG\PLP\ATIVIDADE AVALIATIVA PARTE 1\AtvAvaliaParte1\obj\Debug\AtvAvaliaParte1.exe
+D:\GitHub\Projetos UNIFG\PLP\ATIVIDADE AVALIATIVA PARTE 1\AtvAvaliaParte1\obj\Debug\AtvAvaliaParte1.pdb
+D:\GitHub\Projetos UNIFG\PLP\ATIVIDADE AVALIATIVA PARTE 1\AtvAvaliaParte1CSharp\bin\Debug\AtvAvaliaParte1.exe.config
+D:\GitHub\Projetos UNIFG\PLP\ATIVIDADE AVALIATIVA PARTE 1\AtvAvaliaParte1CSharp\bin\Debug\AtvAvaliaParte1.exe
+D:\GitHub\Projetos UNIFG\PLP\ATIVIDADE AVALIATIVA PARTE 1\AtvAvaliaParte1CSharp\bin\Debug\AtvAvaliaParte1.pdb
+D:\GitHub\Projetos UNIFG\PLP\ATIVIDADE AVALIATIVA PARTE 1\AtvAvaliaParte1CSharp\obj\Debug\AtvAvaliaParte1.csprojAssemblyReference.cache
+D:\GitHub\Projetos UNIFG\PLP\ATIVIDADE AVALIATIVA PARTE 1\AtvAvaliaParte1CSharp\obj\Debug\AtvAvaliaParte1.csproj.CoreCompileInputs.cache
+D:\GitHub\Projetos UNIFG\PLP\ATIVIDADE AVALIATIVA PARTE 1\AtvAvaliaParte1CSharp\obj\Debug\AtvAvaliaParte1.exe
+D:\GitHub\Projetos UNIFG\PLP\ATIVIDADE AVALIATIVA PARTE 1\AtvAvaliaParte1CSharp\obj\Debug\AtvAvaliaParte1.pdb

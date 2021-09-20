@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtvAvaliaParte1", "AtvAvaliaParte1.csproj", "{DA512AF1-58AE-48C1-AFC9-E843D34F85BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA512AF1-58AE-48C1-AFC9-E843D34F85BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA512AF1-58AE-48C1-AFC9-E843D34F85BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA512AF1-58AE-48C1-AFC9-E843D34F85BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA512AF1-58AE-48C1-AFC9-E843D34F85BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBC48DD1-C5BC-4A9A-A987-28FD9C1FBD8D}
+	EndGlobalSection
+EndGlobal
